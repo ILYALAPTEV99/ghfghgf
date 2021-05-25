@@ -130,3 +130,7 @@ footer {
     background-color: white;
     color: black;
 }
+
+.socialf:hover{
+    color:orange;
+}
